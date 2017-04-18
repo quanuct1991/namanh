@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>Cấu trúc trang HTML</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <h1>Bài 03: Cấu trúc của một trang HTML</h1>
+        <p>Một tập tin HTML được bắt đầu bằng thẻ html và kết thúc bằng thẻ /html</p>
+        <p>Bên trong thẻ html thường được chia làm hai cụm lớn: cụm head và cụm body</p>
+    </body>
+</html>
